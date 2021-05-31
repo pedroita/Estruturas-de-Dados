@@ -1,0 +1,3 @@
+#O que é uma lista encadeada
+A lista encadeada foi criada com uma estrutura com 3 funções uma que adiciona os elementos na lista, outra que remove, busca e altera os valores na lista.
+Com a função de adicionar é possível adicionar no inicio da fila, como no meio como no final, o mesmo acontece com as outras funções da lista.
