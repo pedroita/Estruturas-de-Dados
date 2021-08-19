@@ -1,2 +1,12 @@
-# Estruturas-de-Dados
-Nesse repositorio você ira encontrar algumas estruturas de dados,como : Lista encadadedas, Duplamente encadedada, Arvore e pilha feitas em linguagem C
+# ESTRUTURAS DE DADOS
+
+### Nesse repositorio eu implementei algumas estruturas de dados vista em sala de aula, que foram ensinados pela professora Tatiane na linguagem C
+Algumas das estrutras se encontram abaixo  
+  - Fila
+  - Pilha
+  - Lista encadeada
+  - Lista Duplamente encadeada
+  - Arvore Binaria de Busca
+  - Arvore Binaria
+
+
